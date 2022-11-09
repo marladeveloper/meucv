@@ -1,0 +1,37 @@
+body{
+    background-color: #DA70D6;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+input[type="button"]{
+  position: static;
+  margin-top: 1px;
+  background-color: black;
+  border: 1px solid pink;
+  border-radius: 50px;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  margin-right: 200px;
+  padding: 10px 10px;
+}
+input[type="button"]:hover{
+  background-color: white;
+  color: purple;
+}
+
+div{
+  width: 750px;
+  height: 850px;
+  background-color: white;
+  border-radius: 10px;
+  border-color: transparent;
+  justify-content: center;
+}
+hr{
+  border-color: black;
+}
+hr{
+  border-color: #4682B4;
+}
